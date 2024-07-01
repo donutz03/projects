@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Lenovo\Desktop\projects\calculator\Source.c(28,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\projects\calculator\Source.c(30,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  calculator.vcxproj -> C:\Users\Lenovo\Desktop\projects\calculator\x64\Debug\calculator.exe
